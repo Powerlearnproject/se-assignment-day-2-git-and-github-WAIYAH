@@ -103,14 +103,17 @@ before merging into the main branch.
 4. Merge the PR into the main branch.
 • Collaboration: PRs ensure code quality through peer review and foster teamwork by
 providing a structured way to integrate changes.
+
 **8. Discuss the concept of "forking" a repository on GitHub. How does forking differ
 from cloning, and what are some scenarios where forking would be particularly useful?**
+
 • Forking: Creates a copy of a repository under your GitHub account, allowing you to
 experiment without affecting the original project.
 • Difference: Cloning creates a local copy, while forking creates a remote copy on
 GitHub.
 • Use Cases: Contributing to open-source projects, experimenting with someone else’s
 code, or creating a derivative project.
+
 **9. Examine the importance of issues and project boards on GitHub. How can they be
 used to track bugs, manage tasks, and improve project organization? Provide examples
 of how these tools can enhance collaborative efforts.• Issues: Track bugs, feature requests, and tasks. They provide a centralized place for
